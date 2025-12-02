@@ -1,4 +1,4 @@
-# Hi there, I'm Julio Andrés Támara Hernández 👋
+<h1 align="center"> Hi there, I'm Julio Andrés Támara Hernández 🤟</h1>
 
 ## 🚀 Systems Engineer | Full Stack Developer | Data Analyst
 
@@ -26,6 +26,7 @@ I am a Systems Engineer with a passion for building scalable web solutions and a
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-%234285F4.svg?style=for-the-badge&logo=mcp&logoColor=white)
 
 ---
 
@@ -74,10 +75,6 @@ I am a Systems Engineer with a passion for building scalable web solutions and a
 
 ## 📫 Connect with Me
 
-<!-- Add your actual links here -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-<!---
-Juliotamara23/Juliotamara23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-andr%C3%A9s-t%C3%A1mara-hern%C3%A1ndez-23z4iz0r/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julio.tamara23@outlook.com)
