@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, I'm Julio Andrés Támara Hernández 🤟</h1>
 
+[![Versión Español](https://img.shields.io/badge/Language-Español-blue?style=for-the-badge)](README.es.md)
+
 ## 🚀 Systems Engineer | Full Stack Developer | Data Analyst
 
 I am a Systems Engineer with a passion for building scalable web solutions and automating complex processes. I specialize in integrating Artificial Intelligence models into workflows and managing data for decision-making.
