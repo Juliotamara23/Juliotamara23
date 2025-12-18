@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Julio Andrés Támara Hernández 🤟</h1>
 
-[![Versión Español](https://img.shields.io/badge/Language-Español-blue?style=for-the-badge)](README.es.md)
+[![Versión Español](https://img.shields.io/badge/Versión-Español-blue?style=for-the-badge)](README.es.md)
 
 ## 🚀 Systems Engineer | Full Stack Developer | Data Analyst
 
