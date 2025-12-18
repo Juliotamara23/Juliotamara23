@@ -6,7 +6,7 @@
 
 I am a Systems Engineer with a passion for building scalable web solutions and automating complex processes. I specialize in integrating Artificial Intelligence models into workflows and managing data for decision-making.
 
-- 🧠 **Interests:** AI Integration, Automation, Data Analysis, Full Stack Development
+ 🧠 **Interests:** AI Integration, Automation, Data Analysis, Full Stack Development
 
 ---
 
