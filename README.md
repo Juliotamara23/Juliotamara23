@@ -12,7 +12,7 @@ Hey! 👋 I'm Julio, a backend developer from Colombia.
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript" alt="React, Next.js, JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind, React, Next.js" />
 
 **Databases**
 
