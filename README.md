@@ -32,10 +32,10 @@ Hey! 👋 I'm Julio, a backend developer from Colombia.
 
 ## 💻 Current projects
 
-- **CV-Pilot** ([CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent)): recruiting agent that finds, analyzes and scores job vacancies against a candidate profile. Python, FastAPI, SQLAlchemy, n8n.
-- **AnalisisCensal**: census processing and reporting for 146 families (Ministry of the Interior). Python, pandas, fpdf2.
-- **GeoPulse**: municipality classifier from street addresses. Python, pandas.
-- **TatachioMirabel**: member administration backend for the Tatachio indigenous community. TypeScript, Node.
+- **CV-Pilot** ([CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent)): AI recruiting orchestrator that finds, analyzes and scores job vacancies against a candidate profile. Python · typer · pydantic · httpx · sqlite.
+- **AnalisisCensal** ([AnalisisCensal](https://github.com/Juliotamara23/AnalisisCensal)): census processing and reporting for 146 families (Ministry of the Interior). Python · pandas · fpdf2.
+- **GeoPulse** ([GeoPulse](https://github.com/Juliotamara23/GeoPulse)): classifies addresses in Valle de Aburrá and Rionegro by municipality. Python · pandas · openpyxl.
+- **TatachioMirabel** ([TatachioMirabel](https://github.com/Juliotamara23/TatachioMirabel)): member administration backend for the Tatachio indigenous community. TypeScript · Node · Express · Prisma.
 
 ## 📫 Contact
 

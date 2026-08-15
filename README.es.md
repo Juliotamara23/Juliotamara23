@@ -32,10 +32,10 @@
 
 ## 💻 Proyectos actuales
 
-- **CV-Pilot** ([CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent)): agente de reclutamiento que encuentra, analiza y puntúa vacantes contra un perfil. Python, FastAPI, SQLAlchemy, n8n.
-- **AnalisisCensal**: procesamiento y reporte de censo para 146 familias (Ministerio del Interior). Python, pandas, fpdf2.
-- **GeoPulse**: clasificador de municipios desde direcciones. Python, pandas.
-- **TatachioMirabel**: backend de administración de miembros de la comunidad indígena Tatachio. TypeScript, Node.
+- **CV-Pilot** ([CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent)): orquestador de reclutamiento con IA que encuentra, analiza y puntúa vacantes contra un perfil. Python · typer · pydantic · httpx · sqlite.
+- **AnalisisCensal** ([AnalisisCensal](https://github.com/Juliotamara23/AnalisisCensal)): procesamiento y reporte de censo para 146 familias (Ministerio del Interior). Python · pandas · fpdf2.
+- **GeoPulse** ([GeoPulse](https://github.com/Juliotamara23/GeoPulse)): clasifica direcciones del Valle de Aburrá y Rionegro por municipio. Python · pandas · openpyxl.
+- **TatachioMirabel** ([TatachioMirabel](https://github.com/Juliotamara23/TatachioMirabel)): backend de administración de miembros de la comunidad indígena Tatachio. TypeScript · Node · Express · Prisma.
 
 ## 📫 Contacto
 
