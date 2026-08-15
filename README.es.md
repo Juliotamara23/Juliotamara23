@@ -1,38 +1,40 @@
-# Julio Támara
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Juliotamara23/Juliotamara23/main/name.svg" alt="Julio Támara" width="800" height="130" />
+</p>
 
-Desarrollador backend · Python & Node.js · Automatización con IA
+¡Hola! 👋 Soy Julio, desarrollador backend de Colombia.
 
-[Read in English](README.md)
+## 🛠️ Stack tecnológico
 
-## Quién soy
+**Backend**
 
-Ingeniero de Sistemas. Empecé construyendo herramientas educativas en PHP para colegios de Sucre; hoy orquesto agentes de IA en producción y automatizo procesos que antes tomaban días.
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,typescript" alt="Python, FastAPI, Flask, Node.js, Express, TypeScript" />
 
-El backend es mi terreno: APIs, integraciones, datos, lógica. La IA es mi juguete serio: convertir procesos manuales en algo que funciona solo. Me gusta lo que se puede medir — 146 familias censadas, una nómina calculada bajo la ley colombiana, una vacante analizada en segundos.
+**Frontend**
 
-## Ahora mismo
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript" alt="React, Next.js, JavaScript" />
 
-- **CV-Pilot** — un agente de reclutamiento que encuentra vacantes, las puntúa contra un perfil y arma postulaciones. Python · FastAPI · SQLAlchemy · n8n.
-- **Tatachio Mirabel** — backend de administración de miembros para la comunidad indígena Tatachio. TypeScript · Node.
-- **GeoPulse** — clasificador de direcciones por municipio. Python · pandas.
+**Bases de datos**
 
-## Proyectos
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
 
-| Proyecto | Qué hace | Stack |
-|---|---|---|
-| [CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent) | Reclutamiento automatizado: encuentra, analiza y puntúa vacantes contra un perfil | Python · FastAPI · SQLAlchemy · n8n |
-| [AnalisisCensal](https://github.com/Juliotamara23/AnalisisCensal) | Censo y reportes de 146 familias (Ministerio del Interior) | Python · pandas · fpdf2 |
-| [GeoPulse](https://github.com/Juliotamara23/GeoPulse) | Clasifica direcciones por municipio | Python · pandas |
-| [TatachioMirabel](https://github.com/Juliotamara23/TatachioMirabel) | Backend de administración de miembros de comunidad | TypeScript · Node |
+**DevOps**
 
-## Stack
+<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,gcp" alt="Docker, Linux, Git, GitHub Actions, Google Cloud" />
 
-- **Backend:** Python (FastAPI · Flask · Pandas · SQLAlchemy), Node.js (Express), PHP
-- **IA y automatización:** n8n · MCP · LLMs · web scraping
-- **Frontend:** React · TypeScript · Next.js
-- **Datos:** MySQL · PostgreSQL · SQL
-- **Infra:** Docker · Linux · Git · GitHub Actions · Google Cloud
+**IA y automatización**
 
-## Contacto
+<img src="https://img.shields.io/badge/n8n-FF6584?style=plastic&logo=n8n&logoColor=white" height="48" alt="n8n" />&nbsp;<img src="https://img.shields.io/badge/MCP-10a37f?style=plastic&logoColor=white" height="48" alt="MCP" />&nbsp;<img src="https://img.shields.io/badge/LLMs-6e4c93?style=plastic&logoColor=white" height="48" alt="LLMs" />&nbsp;<img src="https://img.shields.io/badge/Web%20Scraping-0f172a?style=plastic&logoColor=white" height="48" alt="Web Scraping" />
+
+## 💻 Proyectos actuales
+
+- **CV-Pilot** ([CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent)): agente de reclutamiento que encuentra, analiza y puntúa vacantes contra un perfil. Python, FastAPI, SQLAlchemy, n8n.
+- **AnalisisCensal**: procesamiento y reporte de censo para 146 familias (Ministerio del Interior). Python, pandas, fpdf2.
+- **GeoPulse**: clasificador de municipios desde direcciones. Python, pandas.
+- **TatachioMirabel**: backend de administración de miembros de la comunidad indígena Tatachio. TypeScript, Node.
+
+## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/julio-andr%C3%A9s-t%C3%A1mara-hern%C3%A1ndez-23z4iz0r/) · [Correo](mailto:julio.tamara23@outlook.com) · Discord: Juliotamara23
+
+Adicto al conocimiento.
