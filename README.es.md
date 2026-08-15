@@ -8,7 +8,7 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,typescript" alt="Python, FastAPI, Flask, Node.js, Express, TypeScript" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,typescript" alt="Python, FastAPI, Node.js, Express, TypeScript" />
 
 **Frontend**
 
@@ -16,15 +16,19 @@
 
 **Bases de datos**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL, SQLite" />
 
 **DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,gcp" alt="Docker, Linux, Git, GitHub Actions, Google Cloud" />
+<img src="https://skillicons.dev/icons?i=docker,linux,github,githubactions,gcp" alt="Docker, Linux, GitHub, GitHub Actions, Google Cloud" />
 
 **IA y automatización**
 
 <img src="https://img.shields.io/badge/n8n-FF6584?style=plastic&logo=n8n&logoColor=white" height="48" alt="n8n" />&nbsp;<img src="https://img.shields.io/badge/MCP-10a37f?style=plastic&logoColor=white" height="48" alt="MCP" />&nbsp;<img src="https://img.shields.io/badge/LLMs-6e4c93?style=plastic&logoColor=white" height="48" alt="LLMs" />&nbsp;<img src="https://img.shields.io/badge/Web%20Scraping-0f172a?style=plastic&logoColor=white" height="48" alt="Web Scraping" />
+
+**Herramientas**
+
+<img src="https://img.shields.io/badge/OpenCode-111827?style=plastic&logoColor=white" height="48" alt="OpenCode" />&nbsp;<img src="https://img.shields.io/badge/Herdr-3b82f6?style=plastic&logoColor=white" height="48" alt="Herdr" />&nbsp;<img src="https://img.shields.io/badge/Fresh-ea580c?style=plastic&logoColor=white" height="48" alt="Fresh" />
 
 ## 💻 Proyectos actuales
 
@@ -37,4 +41,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/julio-andr%C3%A9s-t%C3%A1mara-hern%C3%A1ndez-23z4iz0r/) · [Correo](mailto:julio.tamara23@outlook.com) · Discord: Juliotamara23
 
-Adicto al conocimiento.
+End of line.
