@@ -32,10 +32,10 @@ Hey! 👋 I'm Julio, a software engineer from Colombia.
 
 ## 💻 Current projects
 
-- **CV-Pilot** ([CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent)): AI recruiting orchestrator that finds, analyzes and scores job vacancies against a candidate profile. Python · typer · pydantic · httpx · sqlite.
-- **AnalisisCensal** ([AnalisisCensal](https://github.com/Juliotamara23/AnalisisCensal)): census processing and reporting for 146 families (Ministry of the Interior). Python · pandas · fpdf2.
-- **GeoPulse** ([GeoPulse](https://github.com/Juliotamara23/GeoPulse)): classifies addresses in Valle de Aburrá and Rionegro by municipality. Python · pandas · openpyxl.
-- **TatachioMirabel** ([TatachioMirabel](https://github.com/Juliotamara23/TatachioMirabel)): member administration backend for the Tatachio indigenous community. TypeScript · Node · Express · Prisma.
+- <a href="https://github.com/Juliotamara23/CV-Pilot-Agent" style="text-decoration: none; color: inherit;">**CV-Pilot**</a>: AI recruiting orchestrator that finds, analyzes and scores job vacancies against a candidate profile. Python · typer · pydantic · httpx · sqlite.
+- <a href="https://github.com/Juliotamara23/AnalisisCensal" style="text-decoration: none; color: inherit;">**AnalisisCensal**</a>: census processing and reporting for 146 families (Ministry of the Interior). Python · pandas · fpdf2.
+- <a href="https://github.com/Juliotamara23/GeoPulse" style="text-decoration: none; color: inherit;">**GeoPulse**</a>: classifies addresses in Valle de Aburrá and Rionegro by municipality. Python · pandas · openpyxl.
+- <a href="https://github.com/Juliotamara23/TatachioMirabel" style="text-decoration: none; color: inherit;">**TatachioMirabel**</a>: member administration backend for the Tatachio indigenous community. TypeScript · Node · Express · Prisma.
 
 ## 📫 Contact
 

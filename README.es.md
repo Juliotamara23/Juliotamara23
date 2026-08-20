@@ -32,10 +32,10 @@
 
 ## 💻 Proyectos actuales
 
-- **CV-Pilot** ([CV-Pilot-Agent](https://github.com/Juliotamara23/CV-Pilot-Agent)): orquestador de reclutamiento con IA que encuentra, analiza y puntúa vacantes contra un perfil. Python · typer · pydantic · httpx · sqlite.
-- **AnalisisCensal** ([AnalisisCensal](https://github.com/Juliotamara23/AnalisisCensal)): procesamiento y reporte de censo para 146 familias (Ministerio del Interior). Python · pandas · fpdf2.
-- **GeoPulse** ([GeoPulse](https://github.com/Juliotamara23/GeoPulse)): clasifica direcciones del Valle de Aburrá y Rionegro por municipio. Python · pandas · openpyxl.
-- **TatachioMirabel** ([TatachioMirabel](https://github.com/Juliotamara23/TatachioMirabel)): backend de administración de miembros de la comunidad indígena Tatachio. TypeScript · Node · Express · Prisma.
+- <a href="https://github.com/Juliotamara23/CV-Pilot-Agent" style="text-decoration: none; color: inherit;">**CV-Pilot**</a>: orquestador de reclutamiento con IA que encuentra, analiza y puntúa vacantes contra un perfil. Python · typer · pydantic · httpx · sqlite.
+- <a href="https://github.com/Juliotamara23/AnalisisCensal" style="text-decoration: none; color: inherit;">**AnalisisCensal**</a>: procesamiento y reporte de censo para 146 familias (Ministerio del Interior). Python · pandas · fpdf2.
+- <a href="https://github.com/Juliotamara23/GeoPulse" style="text-decoration: none; color: inherit;">**GeoPulse**</a>: clasifica direcciones del Valle de Aburrá y Rionegro por municipio. Python · pandas · openpyxl.
+- <a href="https://github.com/Juliotamara23/TatachioMirabel" style="text-decoration: none; color: inherit;">**TatachioMirabel**</a>: backend de administración de miembros de la comunidad indígena Tatachio. TypeScript · Node · Express · Prisma.
 
 ## 📫 Contacto
 
