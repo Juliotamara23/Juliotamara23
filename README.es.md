@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Juliotamara23/Juliotamara23/main/name.svg" alt="Julio Támara" width="800" height="130" />
 </p>
 
-¡Hola! 👋 Soy Julio, desarrollador backend de Colombia.
+¡Hola! 👋 Soy Julio, ingeniero de software de Colombia.
 
 ## 🛠️ Stack tecnológico
 
