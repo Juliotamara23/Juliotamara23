@@ -38,5 +38,5 @@
   <text class="name" filter="url(#glow)" x="400" y="72" text-anchor="middle" font-size="54" font-weight="800" letter-spacing="6">JULIO TÁMARA</text>
 
   <!-- tagline -->
-  <text class="tag" x="400" y="105" text-anchor="middle" font-size="16" font-weight="500" letter-spacing="8">SOFTWARE ENGINEER & PYTHON & NODE.JS & IA & AUTOMATION</text>
+  <text class="tag" x="400" y="105" text-anchor="middle" font-size="16" font-weight="500" letter-spacing="8">SOFTWARE ENGINEER</text>
 </svg>
